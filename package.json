@@ -1,0 +1,6 @@
+{
+	"name": "spelling-nodejs",
+	"dependencies": {
+		"express": "*"
+	}
+}
